@@ -1,6 +1,12 @@
 # ossf/scorecard-action
 
-Hardened GitHub Action by [Chainguard](https://www.chainguard.dev).
+Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/ossf/scorecard-action](https://github.com/ossf/scorecard-action).
+
+## Versions
+
+| Version | Tag | Upstream commit |
+|---------|-----|-----------------|
+| v2.4.3 | [`v2.4.3`](https://github.com/chainguard-actions/scorecard-action/tree/v2.4.3) | — |
 
 ## Privacy
 
