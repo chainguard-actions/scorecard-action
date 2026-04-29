@@ -1,5 +1,7 @@
 # ossf/scorecard-action
 
+Official GitHub Action for OpenSSF Scorecard.
+
 Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/ossf/scorecard-action](https://github.com/ossf/scorecard-action).
 
 ## Versions
