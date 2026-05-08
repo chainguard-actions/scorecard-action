@@ -1,4 +1,6 @@
 {
-  "upstream": "ossf/scorecard-action",
-  "version": "v2.4.3"
+  "owner": "ossf",
+  "repo": "scorecard-action",
+  "version": "",
+  "url": "https://github.com/ossf/scorecard-action"
 }
