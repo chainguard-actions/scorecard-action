@@ -1,7 +1,7 @@
 {
   "owner": "ossf",
   "name": "scorecard-action",
-  "visibility": "internal",
+  "visibility": "public",
   "description": "Official GitHub Action for OpenSSF Scorecard.",
   "block_publish": false
 }
